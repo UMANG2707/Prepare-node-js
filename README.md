@@ -73,6 +73,8 @@
   
 - Create new project using given command
   - `express --view=ejs myapp`
+- Goto your project folder "cd myapp"
+  - `npm install`
 
 - Open this myapp project into vscode
 - Now, ready to do work on node.js
