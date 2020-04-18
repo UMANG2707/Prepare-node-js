@@ -32,4 +32,5 @@
   - npm i nodemon -g [use -g for installing globally]
 - Visit given site to know what this package can do.
   - https://www.npmjs.com/package/nodemon
-
+- After installing globally invoke it into your project
+  - npm i nodemon --save
