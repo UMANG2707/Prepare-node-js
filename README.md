@@ -27,3 +27,9 @@
 - Packages not availabe due to that open node.js cmd and follow givent command
 - First goto your project folder in cmd
     - npm init -y
+
+- Install nodeone package
+  - npm i nodemon -g [use -g for installing globally]
+- Visit given site to know what this package can do.
+  - https://www.npmjs.com/package/nodemon
+
