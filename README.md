@@ -66,5 +66,11 @@
     - http://localhost:8000/about
     - http://localhost:8000
 - Download and install express-generator
-  -`npm i -g express-generator`
-  -`npm i express-generator --save`
+
+   -`npm i -g express-generator`
+   -`npm i express-generator --save`
+   
+  
+- Create new project using given command
+  - `express --view=ejs myapp`
+  
