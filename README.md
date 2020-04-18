@@ -73,4 +73,6 @@
   
 - Create new project using given command
   - `express --view=ejs myapp`
-  
+
+- Open this myapp project into vscode
+- Now, ready to do work on node.js
