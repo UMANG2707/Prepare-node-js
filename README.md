@@ -23,3 +23,7 @@
   - node .\one.js [command]
 - Opent it into browser with port number given by you
   - http://localhost:8000/
+  
+- Packages not availabe due to that open node.js cmd and follow givent command
+- First goto your project folder in cmd
+    - npm init -y
